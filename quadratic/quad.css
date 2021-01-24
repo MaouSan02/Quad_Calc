@@ -1,0 +1,17 @@
+body {background-color: #2F4F4F; background-repeat: no-repeat;	background-size: cover;	}
+h1 {text-align: center; color:white; font-size: 70pt}
+form {color: white; text-align: center;}
+input {background-color: white; font-size: 18pt}
+label {font-size: 18pt}
+p {font-size: 90%; align-self: baseline; text-align: center; color: white}
+form.dif {
+	border: 3px offset blue ;
+	border-radius: 8px;
+	background-color: #779B9B;
+	color: black;
+	font-size: 18pt;
+	height:150pt;
+	width: 300pt;
+	padding: 5px;
+	margin: auto;
+}
